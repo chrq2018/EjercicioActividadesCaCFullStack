@@ -1,0 +1,18 @@
+Primera configuración de Git:
+$git config global user.name "Tu nombre aquí"
+$git config global user.email "tu_email_aquí@example.com" 
+
+Subir LOCAL:
+Creo la Carpeta Local y la inicializo como GIT
+$git init
+
+Guardo los archivos en el repositorio con 2 pasos:
+$git add nombre-del-fichero
+$git commit -m "escribo un mensaje"
+
+$git status  (nos permite ver el fichero que vamos a subir)
+
+SUBIR NUBE:
+$git remote add origin https://github.com/chrq2018/EjercicioActividadesCaCFullStack.git
+$git remote -v (para verificar Push)
+$git push origin master
