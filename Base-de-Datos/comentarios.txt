@@ -1,0 +1,7 @@
+El archivo christianquiroga.sql contiene los siguientes datos:
+Datos del servidor (versión, puerto, host).
+Fecha de creación de la tabla y a que base de datos pertenece.
+Configuración inicial.
+El código sql para crear las columnas (con sus tipos de datos) 
+e insertar los datos.
+Indica cual es clave primaria.
